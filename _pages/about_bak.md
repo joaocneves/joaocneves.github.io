@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-João Neves received a B.Sc., M.Sc. in Computer Science from University of Beira Interior in 2011 and 2013, respectively. From 2014 to 2017, he was awarded with a Ph.D. research grant from the Portuguese national funding agency for science (FCT). He obtained the Ph.D. in Computer Science from the University of Beira Interior in 2018. In 2018, he joined the TOMIWORLD company as a Computer Vision Engineer in the context of the research project BIODI. Simultaneously, he joined the University of Beira Interior in 2018 as an Assistant Professor of the Computer Science Department. His research interests are mainly focused in the fields of Computer Vision and Machine Learning, including face recognition, biometrics and surveillance. He authored more than 30 papers, and received the 'best paper runner up' award in a CVPR workshop.
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
